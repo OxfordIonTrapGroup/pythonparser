@@ -23,6 +23,20 @@ build:
 requirements:
   build:
     - python >=3.8
+    - regex
+    - functools
+    - contextlib
+    - regex
+    - unicodedata
+    - bisect
+    - sys
   run:
     - python >=3.8
+    - regex
+    - functools
+    - contextlib
+    - regex
+    - unicodedata
+    - bisect
+    - sys
 
